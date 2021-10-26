@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SignTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-26T20:51:52" hostname="NB-1622" time="18.512">
+  <properties/>
+  <testcase name="testFazerLoginNoTaskIt()" classname="SignTest" time="18.512"/>
+  <system-out><![CDATA[Login efetuado
+Hi, Julio
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 95.0.4638.17 (a9d0719444d4b035e284ed1fce73bf6ccd789df2-refs/branch-heads/4638@{#178}) on port 1377
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+out 26, 2021 5:52:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+out 26, 2021 5:52:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 95, so returning the closest version found: 91
+out 26, 2021 5:52:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 95 of 91
+]]></system-err>
+</testsuite>
